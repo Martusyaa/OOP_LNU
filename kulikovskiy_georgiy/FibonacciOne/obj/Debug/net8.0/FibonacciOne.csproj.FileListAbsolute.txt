@@ -1,0 +1,14 @@
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.AssemblyInfoInputs.cache
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.AssemblyInfo.cs
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.csproj.CoreCompileInputs.cache
+D:\projects\csharp\FibonacciOne\bin\Debug\net8.0\FibonacciOne.exe
+D:\projects\csharp\FibonacciOne\bin\Debug\net8.0\FibonacciOne.deps.json
+D:\projects\csharp\FibonacciOne\bin\Debug\net8.0\FibonacciOne.runtimeconfig.json
+D:\projects\csharp\FibonacciOne\bin\Debug\net8.0\FibonacciOne.dll
+D:\projects\csharp\FibonacciOne\bin\Debug\net8.0\FibonacciOne.pdb
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.dll
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\refint\FibonacciOne.dll
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.pdb
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\FibonacciOne.genruntimeconfig.cache
+D:\projects\csharp\FibonacciOne\obj\Debug\net8.0\ref\FibonacciOne.dll
