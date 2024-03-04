@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\fib2\fib2\bin\Debug\net8.0\fib2.exe
+C:\Users\User\source\repos\fib2\fib2\bin\Debug\net8.0\fib2.deps.json
+C:\Users\User\source\repos\fib2\fib2\bin\Debug\net8.0\fib2.runtimeconfig.json
+C:\Users\User\source\repos\fib2\fib2\bin\Debug\net8.0\fib2.dll
+C:\Users\User\source\repos\fib2\fib2\bin\Debug\net8.0\fib2.pdb
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.AssemblyInfo.cs
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.dll
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\refint\fib2.dll
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.pdb
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\fib2.genruntimeconfig.cache
+C:\Users\User\source\repos\fib2\fib2\obj\Debug\net8.0\ref\fib2.dll
