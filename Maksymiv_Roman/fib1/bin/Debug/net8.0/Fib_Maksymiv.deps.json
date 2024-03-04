@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fib_Maksymiv/1.0.0": {
+        "runtime": {
+          "Fib_Maksymiv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fib_Maksymiv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

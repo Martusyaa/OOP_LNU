@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\Fib_Maksymiv.exe
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\Fib_Maksymiv.deps.json
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\Fib_Maksymiv.runtimeconfig.json
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\Fib_Maksymiv.dll
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\Fib_Maksymiv.pdb
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.AssemblyInfo.cs
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.dll
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\refint\Fib_Maksymiv.dll
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.pdb
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\Fib_Maksymiv.genruntimeconfig.cache
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\obj\Debug\net8.0\ref\Fib_Maksymiv.dll
+C:\Users\User\source\repos\Fib_Maksymiv\Fib_Maksymiv\bin\Debug\net8.0\input.txt
