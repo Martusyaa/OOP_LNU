@@ -1,0 +1,15 @@
+Addition: 
+2 5 5 
+4 4 4 
+6 3 3 
+
+Subtraction: 
+0 -1 1 
+0 -2 2 
+0 1 -1 
+
+Multiplication: 
+14 12 10 
+13 12 11 
+10 16 10 
+
