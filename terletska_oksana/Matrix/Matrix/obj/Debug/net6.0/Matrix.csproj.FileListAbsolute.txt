@@ -1,0 +1,15 @@
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\bin\Debug\net6.0\Matrix.exe
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\bin\Debug\net6.0\Matrix.deps.json
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\bin\Debug\net6.0\Matrix.runtimeconfig.json
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\bin\Debug\net6.0\Matrix.dll
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\bin\Debug\net6.0\Matrix.pdb
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.dll
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\refint\Matrix.dll
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.pdb
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+D:\LNU\OOP_LNU\terletska_oksana\Matrix\Matrix\obj\Debug\net6.0\ref\Matrix.dll
