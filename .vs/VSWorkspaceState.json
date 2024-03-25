@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\sofiia_tuboltseva",
-    "\\sofiia_tuboltseva\\matrix",
+    "\\sofiia_tuboltseva\\bridge",
+    "\\sofiia_tuboltseva\\bridge\\Bridge",
     "\\sofiia_tuboltseva\\matrix\\matrix"
   ],
-  "SelectedNode": "\\sofiia_tuboltseva\\matrix\\Matrix.sln",
+  "SelectedNode": "\\sofiia_tuboltseva\\bridge\\Bridge\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
