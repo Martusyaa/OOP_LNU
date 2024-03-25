@@ -1,0 +1,4 @@
+spring.servlet:
+  defaults:
+    message.value:
+      message: World
