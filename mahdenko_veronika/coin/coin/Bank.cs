@@ -1,17 +1,16 @@
-﻿namespace coin
+﻿using System.Linq;
+namespace coin
 {
     public class Bank
     {
         private List<Money> moneyCollection;
-        private Dictionary<ValutaType, double> currencyTotals;
 
         public Bank()
         {
             moneyCollection = new List<Money>();
-            currencyTotals = new Dictionary<ValutaType, double>();
         }
 
-        public void AddMoney(double coin, ValutaType valuta)
+        public void AddMoney(double coin, ValutaType valuta, Dictionary<ValutaType, double> currencyTotals)
         {
             Money money = new Money(coin, valuta);
             moneyCollection.Add(money);
@@ -29,21 +28,16 @@
         public double MoneyInBank()
         {
             Console.WriteLine("Money in bank:");
-            foreach (var money in moneyCollection)
-            {
-                Console.WriteLine(money);
-            }
+            moneyCollection.Select(m => m.ToString()).ToList().ForEach(Console.WriteLine);
+
+            Dictionary<ValutaType, double> currencyTotals = moneyCollection
+                .GroupBy(m => m.Valuta)
+                .ToDictionary(g => g.Key, g => g.Sum(m => m.Coin));
 
             Console.WriteLine("Currency totals:");
-            foreach (var i in currencyTotals)
-            {
-                Console.WriteLine($"{i.Key}: {i.Value}");
-            }
-            double totalMoney = 0;
-            foreach (var money in moneyCollection)
-            {
-                totalMoney += money.coin;
-            }
+            currencyTotals.ToList().ForEach(i => Console.WriteLine($"{i.Key}: {i.Value}"));
+
+            double totalMoney = moneyCollection.Sum(m => m.Coin);
             Console.WriteLine("Suma coins: ");
             return totalMoney;
         }
