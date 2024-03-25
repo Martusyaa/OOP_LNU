@@ -5,11 +5,13 @@
         static void Main()
         {
             Bank bank = new Bank();
-            bank.AddMoney(1, ValutaType.USD);
-            bank.AddMoney(5, ValutaType.EUR);
-            bank.AddMoney(10, ValutaType.UAH);
-            bank.AddMoney(1, ValutaType.USD);
-            bank.AddMoney(60, ValutaType.UAH);
+            Dictionary<ValutaType, double> currencyTotals = new Dictionary<ValutaType, double>();
+
+            bank.AddMoney(1, ValutaType.USD, currencyTotals);
+            bank.AddMoney(5, ValutaType.EUR, currencyTotals);
+            bank.AddMoney(10, ValutaType.UAH, currencyTotals);
+            bank.AddMoney(1, ValutaType.USD, currencyTotals);
+            bank.AddMoney(60, ValutaType.UAH, currencyTotals);
 
             Console.WriteLine(bank.MoneyInBank());
         }

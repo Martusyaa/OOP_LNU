@@ -2,18 +2,18 @@
 {
     public class Money
     {
-        public double coin;
-        public ValutaType valuta;
+        public double Coin { get; set; }
+        public ValutaType Valuta { get; set; }
 
-        public Money(double _coin, ValutaType _valuta)
+        public Money(double coin, ValutaType valuta)
         {
-            coin = _coin;
-            valuta = _valuta;
+            Coin = coin;
+            Valuta = valuta;
         }
 
         public override string ToString()
         {
-            return $"Amount: {coin} Valuta: {valuta}";
+            return $"Amount: {Coin} Valuta: {Valuta}";
         }
     }
 }
