@@ -1,0 +1,15 @@
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.csproj.AssemblyReference.cache
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.AssemblyInfoInputs.cache
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.AssemblyInfo.cs
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.csproj.CoreCompileInputs.cache
+C:\Users\Соня\source\repos\Bridge2\Bridge2\bin\Debug\net6.0\Bridge2.exe
+C:\Users\Соня\source\repos\Bridge2\Bridge2\bin\Debug\net6.0\Bridge2.deps.json
+C:\Users\Соня\source\repos\Bridge2\Bridge2\bin\Debug\net6.0\Bridge2.runtimeconfig.json
+C:\Users\Соня\source\repos\Bridge2\Bridge2\bin\Debug\net6.0\Bridge2.dll
+C:\Users\Соня\source\repos\Bridge2\Bridge2\bin\Debug\net6.0\Bridge2.pdb
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.dll
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\refint\Bridge2.dll
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.pdb
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\Bridge2.genruntimeconfig.cache
+C:\Users\Соня\source\repos\Bridge2\Bridge2\obj\Debug\net6.0\ref\Bridge2.dll
